@@ -1,0 +1,31 @@
+2025-06-06 12:05:49,513 - INFO - Import importEasyFixOrders ended: 2025-06-06 12:05:49.513643 Rows affected: 226662. Duration: 0:02:43.060230.
+2025-06-06 12:08:28,757 - INFO - Import importEasyFixOrders started: 2025-06-06 12:08:28.757872
+2025-06-06 12:10:51,412 - INFO - Import importEasyFixOrders ended: 2025-06-06 12:10:51.412498 Rows affected: 226662. Duration: 0:02:22.654626.
+2025-06-06 12:13:34,099 - INFO - Import importEasyFixOrders started: 2025-06-06 12:13:34.099381
+2025-06-06 12:15:59,135 - INFO - Import importEasyFixOrders ended: 2025-06-06 12:15:59.134904 Rows affected: 226662. Duration: 0:02:25.035523.
+2025-06-06 12:17:05,316 - INFO - Import importEasyFixOrdersValue started: 2025-06-06 12:17:05.316034
+2025-06-06 12:17:05,389 - ERROR - Error occurred: ORA-20001: Nie masz uprawnień do czyszczenia tej tabeli!
+ORA-06512: przy "KLIK.CLEAN_TABLE", linia 42
+ORA-06512: przy linia 1
+2025-06-06 12:18:00,301 - INFO - Import importEasyFixOrdersValue started: 2025-06-06 12:18:00.300918
+2025-06-06 12:18:38,549 - INFO - Import importEasyFixOrdersValue ended: 2025-06-06 12:18:38.549078 Rows affected: 386887. Duration: 0:00:38.248160.
+2025-06-06 12:21:54,032 - INFO - Import importEasyPotential started: 2025-06-06 12:21:54.032608
+2025-06-06 12:21:54,192 - ERROR - Error occurred: ORA-20001: Nie masz uprawnień do czyszczenia tej tabeli!
+ORA-06512: przy "KLIK.CLEAN_TABLE", linia 42
+ORA-06512: przy linia 1
+2025-06-06 12:22:35,248 - INFO - Import importEasyPotential started: 2025-06-06 12:22:35.248611
+2025-06-06 12:22:39,283 - INFO - Import importEasyPotential ended: 2025-06-06 12:22:39.283814 Rows affected: 38636. Duration: 0:00:04.035203.
+2025-06-06 12:25:35,193 - INFO - Import importEasyProjectLastPils started: 2025-06-06 12:25:35.193532
+2025-06-06 12:25:58,123 - INFO - Import importEasyProjectLastPils ended: 2025-06-06 12:25:58.122977 Rows affected: 117872. Duration: 0:00:22.929445.
+2025-06-06 12:32:47,430 - INFO - Import importEasyCampaignsLME started: 2025-06-06 12:32:47.429944
+2025-06-06 12:32:47,587 - ERROR - Error occurred: ORA-20001: Nie masz uprawnień do czyszczenia tej tabeli!
+ORA-06512: przy "KLIK.CLEAN_TABLE", linia 42
+ORA-06512: przy linia 1
+2025-06-06 12:33:15,088 - INFO - Import importEasyCampaignsLME started: 2025-06-06 12:33:15.087926
+2025-06-06 12:33:44,445 - INFO - Import importEasyCampaignsLME ended: 2025-06-06 12:33:44.445462 Rows affected: 2476. Duration: 0:00:29.357536.
+2025-06-06 12:37:46,716 - INFO - Import importEasyCampaignsLME started: 2025-06-06 12:37:46.716810
+2025-06-06 12:37:48,064 - INFO - Import importEasyCampaignsLME ended: 2025-06-06 12:37:48.064172 Rows affected: 2476. Duration: 0:00:01.347362.
+2025-06-06 12:38:06,353 - INFO - Import importEasyEOrder started: 2025-06-06 12:38:06.353182
+2025-06-06 12:41:15,622 - INFO - Import importEasyEOrder ended: 2025-06-06 12:41:15.622751 Rows affected: 63465. Duration: 0:03:09.269569.
+2025-06-06 12:44:40,893 - INFO - Import importEasyEContracts started: 2025-06-06 12:44:40.893789
+2025-06-06 12:44:50,150 - INFO - Import importEasyEContracts ended: 2025-06-06 12:44:50.150267 Rows affected: 13485. Duration: 0:00:09.256478.
