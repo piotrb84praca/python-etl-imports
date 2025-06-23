@@ -1,2 +1,2 @@
 # python-etl-imports
-ETL jobs to import data from MsSQL  to Oracle examples includding logger methods.
+An ETL jobs that extracts diferent data from MSSQL, processes and formats it, then efficiently loads it into an Oracle database using batch operations, with logging and error handling.
